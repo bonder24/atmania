@@ -1,1 +1,3 @@
 # atmania
+
+Neler oldu neler!
